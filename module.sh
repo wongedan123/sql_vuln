@@ -7,6 +7,7 @@ clear
 echo "STARTING INSTALLING MODULE PERL IN SYSTEM"
 apt-get update -y
 apt-get upgrade -y
+apt-get install perl -y
 if [[ -d "/usr/bin/" ]]; then
 	if [[ $EUID -ne 0 ]]; then
 		echo "Your must be run as root"
