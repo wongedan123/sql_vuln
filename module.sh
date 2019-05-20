@@ -2,7 +2,7 @@
 # sqlme module instalation
 clear
 echo "mohon tunggu installasi module membutuhkan waktu yang panjang mungkin kurang lebih 15mnt"
-sleep 2
+sleep 5
 clear
 echo "STARTING INSTALLING MODULE PERL IN SYSTEM"
 apt-get update -y
