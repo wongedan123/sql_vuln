@@ -1,7 +1,12 @@
 #!/usr/bin/env perl
-#Author : Ms.ambari
-#Date : 2018-12-23
-#Version: V.1.0
+# Author : Mr.w0n63d4n
+# Di buat : 2019-05-20
+# Version: V.1.0
+# Merecode script atau mengganti nama author
+# adalah script kiddi
+# jika ingin merecode atau upload ke github
+# izin ke saya
+# wa contact : 08811664850
 
 use LWP::UserAgent;
 use Term::ANSIColor;
