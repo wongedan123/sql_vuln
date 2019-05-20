@@ -7,5 +7,7 @@ how to install in termux/terminal linux<br>
 • chmod +x module.sh<br>
 • ./module.sh<br>
 • perl sqlme.pl<br><br>
+NOTE: hasil dari scane web vuln akan disimpan di sql_vuln.txt<br>
+jika ingin melihat ketik nano sql_vuln.txt<br><br>
 jika terdapat bug atau error hub : 08811664850<br>
 thanks sudah membaca :v
